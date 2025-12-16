@@ -308,11 +308,6 @@
                 <artifactId>netty-codec</artifactId>
                 <version>4.1.125.Final</version>
             </dependency>
-            <dependency>
-                <groupId>org.xerial.snappy</groupId>
-                <artifactId>snappy-java</artifactId>
-                <version>1.1.10.4</version>
-            </dependency>
         </dependencies>
     </dependencyManagement>
 
