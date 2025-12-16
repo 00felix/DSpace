@@ -308,6 +308,16 @@
                 <artifactId>netty-codec</artifactId>
                 <version>4.1.125.Final</version>
             </dependency>
+            <dependency>
+                <groupId>org.apache.zookeeper</groupId>
+                <artifactId>zookeeper</artifactId>
+                <version>3.7.2</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.zookeeper</groupId>
+                <artifactId>zookeeper</artifactId>
+                <version>3.7.2</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
