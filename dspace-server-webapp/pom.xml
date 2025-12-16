@@ -293,6 +293,11 @@
                 <artifactId>spring-expression</artifactId>
                 <version>${spring.version}</version>
             </dependency>
+            <dependency>
+                <groupId>org.apache.zookeeper</groupId>
+                <artifactId>zookeeper</artifactId>
+                <version>3.7.2</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
